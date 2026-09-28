@@ -1,0 +1,13 @@
+model,batch_size,total_ms,ms_per_sample
+logistic_regression,1,1.0,0.99968
+logistic_regression,50,0.932,0.01865
+logistic_regression,500,0.919,0.00184
+logistic_regression,5000,2.147,0.00043
+decision_tree,1,0.729,0.72911
+decision_tree,50,0.645,0.01291
+decision_tree,500,0.696,0.00139
+decision_tree,5000,1.246,0.00025
+neural_network,1,0.994,0.99355
+neural_network,50,0.926,0.01852
+neural_network,500,0.997,0.00199
+neural_network,5000,3.751,0.00075
